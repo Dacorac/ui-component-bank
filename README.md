@@ -1,2 +1,2 @@
 # ui-component-bank
-UI component library for web developments.
+UI component React library for web developments .
